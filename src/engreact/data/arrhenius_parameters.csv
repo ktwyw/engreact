@@ -1,0 +1,11 @@
+# Arrhenius parameters of classic gas- and liquid-phase reactions, as tabulated in Laidler, Chemical Kinetics (3rd ed., 1987)
+# and Atkins' Physical Chemistry; A in the units given, Ea in kJ/mol. Indicative textbook values.
+reaction,A,A_units,Ea_kJ_mol,notes
+N2O5 decomposition (gas),4.9e13,1/s,103.4,first order; Daniels & Johnston 1921
+cyclopropane -> propene (gas),1.6e15,1/s,272.0,"first order, unimolecular"
+H2 + I2 -> 2 HI (gas),1.6e11,L/(mol s),165.0,second order; Bodenstein
+2 NO2 -> 2 NO + O2 (gas),2.0e9,L/(mol s),111.0,second order
+ethyl acetate + NaOH (aq),1.4e7,L/(mol s),47.0,second order saponification
+"sucrose inversion (aq, acid)",1.5e15,1/s,108.0,pseudo-first order
+"CH3COOC2H5 hydrolysis (aq, OH-)",2.9e9,L/(mol s),46.0,second order
+C2H5Br + OH- (ethanol),4.3e11,L/(mol s),89.5,"second order, SN2"

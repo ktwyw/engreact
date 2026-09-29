@@ -1,0 +1,11 @@
+# Initial rates of an enzyme-catalysed reaction against substrate concentration (25 degC, pH 7). Generated from
+# Michaelis-Menten with V_max = 1.8 mmol/(L min) and K_m = 0.35 mmol/L with 4 % noise. Columns: S (mmol/L), v (mmol/(L min)).
+S_mmol_L,v_mmol_L_min
+0.05,0.22684
+0.1,0.38995
+0.2,0.63292
+0.4,1.01546
+0.8,1.28192
+1.6,1.51944
+3.2,1.76425
+6.4,1.65097

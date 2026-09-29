@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use engreact in your work, please cite it as below."
+title: "engreact: chemical reaction engineering in Python"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yanwei
+    email: wangyanwei@gmail.com
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    website: "https://github.com/ktwyw"
+version: 0.1.0
+date-released: "2026-09-28"
+license: MIT
+repository-code: "https://github.com/ktwyw/engreact"
+keywords:
+  - chemical reaction engineering
+  - reactor design
+  - chemical kinetics
+  - catalysis
+  - residence time distribution
+  - reactor safety
+  - engineering education
+abstract: >-
+  Readable, validated Python for an undergraduate course in chemical reaction engineering - kinetics and
+  rate-data analysis, ideal reactors, multiple reactions, energy balances with multiple steady states and
+  runaway, heterogeneous catalysis and transport, catalyst deactivation, residence-time distributions,
+  bioreactors and gas-solid reactions - checked against analytic solutions, independent numerical
+  integration and published values, with an 18-notebook course and worked solutions.

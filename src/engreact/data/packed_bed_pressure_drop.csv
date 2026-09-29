@@ -1,0 +1,11 @@
+# Pressure drop across a 1.5 m bed of 4 mm catalyst spheres (void fraction 0.42) for air at 60 degC (rho = 1.15 kg/m3,
+# mu = 1.9e-5 Pa s) at several superficial velocities. Generated from the Ergun equation with 2 % noise.
+# Columns: superficial velocity (m/s), pressure drop (Pa).
+u_m_s,dP_Pa
+0.05,76.1
+0.1,184.4
+0.2,474.6
+0.4,1411.1
+0.8,4850.5
+1.2,10107.0
+1.6,17540.4

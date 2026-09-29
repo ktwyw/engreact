@@ -1,0 +1,13 @@
+# Relative activity of a hydrocracking catalyst against time on stream (h), from the conversion at fixed conditions.
+# Generated from second-order decay, k_d = 0.012 1/h, with 3 % noise. Columns: time (h), activity (-).
+t_h,activity
+0.0,1.0344
+5.0,0.9207
+10.0,0.8316
+20.0,0.8092
+40.0,0.6633
+60.0,0.5809
+90.0,0.5048
+120.0,0.3963
+180.0,0.3237
+240.0,0.265

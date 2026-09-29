@@ -1,0 +1,32 @@
+# Steady-state runs of a jacketed pilot CSTR (0.5 m3) for the exothermic liquid-phase reaction A -> B: feed temperature,
+# space time, outlet temperature and conversion. Generated from a first-order rate law (A = 5.0e7 1/s, Ea = 68 kJ/mol),
+# Delta H = -250 kJ/mol, C_A0 = 2500 mol/m3, rho cp = 3.6 MJ/(m3 K), jacket kappa = UA/(v0 rho cp) = 0.8 at T_a = 295 K,
+# with 0.4 K and 2 % measurement noise; the operators start cold so the low steady state is the one observed. Faults:
+# one conversion entered in percent, one outlet temperature in degC, and a final run at 330 K that ignited (ran away).
+# Columns: run, T_feed (K), tau (s), T_out (K), X (-), note.
+run,T_feed_K,tau_s,T_out_K,X,note
+1,290,120.0,292.7,0.0045,ok
+2,290,240.0,293.0,0.0089,ok
+3,290,480.0,293.3,0.0193,ok
+4,295,120.0,295.9,0.0056,ok
+5,295,240.0,296.0,0.0126,ok
+6,295,480.0,298.0,2.81,ok
+7,300,120.0,298.1,0.0071,ok
+8,300,240.0,299.9,0.0156,ok
+9,300,480.0,301.5,0.0382,ok
+10,305,120.0,301.1,0.0102,ok
+11,305,240.0,303.3,0.0218,ok
+12,305,480.0,305.9,0.0558,ok
+13,310,120.0,30.950000000000045,0.0128,ok
+14,310,240.0,306.1,0.0286,ok
+15,310,480.0,312.4,0.0881,ok
+16,315,120.0,307.6,0.0162,ok
+17,315,240.0,310.2,0.0407,ok
+18,315,480.0,399.8,1.0252,ok
+19,320,120.0,311.4,0.0219,ok
+20,320,240.0,315.5,0.0559,ok
+21,320,480.0,403.1,0.9877,ok
+22,325,120.0,314.2,0.0305,ok
+23,325,240.0,320.3,0.0892,ok
+24,325,480.0,405.6,1.0025,ok
+25,330,480.0,409.0,0.9802,runaway: reactor tripped on high temperature

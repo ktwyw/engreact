@@ -1,0 +1,25 @@
+# Equimolar saponification of ethyl acetate with NaOH at 25 degC, followed by conductivity, converted to NaOH concentration.
+# Generated as second-order decay with k = 0.11 L/(mol s) (literature: 0.10-0.12) from 0.020 mol/L with 1.5 % noise.
+# Columns: time (s), concentration (mol/L).
+t_s,C_mol_L
+0,0.019974
+60,0.01771
+120,0.015677
+180,0.01424
+240,0.013197
+300,0.012025
+360,0.010931
+420,0.010321
+480,0.009823
+540,0.009109
+600,0.008601
+660,0.008235
+720,0.007952
+780,0.007285
+840,0.007164
+900,0.006588
+960,0.006444
+1020,0.006057
+1080,0.006044
+1140,0.005773
+1200,0.005588

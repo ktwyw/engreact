@@ -1,0 +1,17 @@
+# Concentration of N2O5 during its decomposition in CCl4 at 45 degC, sampled every 5 min for an hour. Generated as first-order
+# decay with k = 6.2e-4 1/s (the order of Daniels & Johnston's 1921 value) from 2.33 mmol/L with 1 % noise; the sample at
+# 35 min was mis-read (30 % high). Columns: time (s), concentration (mmol/L).
+t_s,C_mmol_L
+0,2.3115
+300,1.9392
+600,1.5757
+900,1.3522
+1200,1.1143
+1500,0.9166
+1800,0.7609
+2100,0.8264
+2400,0.5248
+2700,0.4359
+3000,0.3653
+3300,0.3027
+3600,0.2499
